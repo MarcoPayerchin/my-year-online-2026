@@ -1,3 +1,3 @@
 # my-year-online-2026
 
-This is a semester project for the course of information design.
+This is my semester project for the course information design.
